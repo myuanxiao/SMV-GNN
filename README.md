@@ -3,7 +3,7 @@ Python implementation of the paper: Self-Supervised Graph Information Bottleneck
 
 You can train the model with the following command
 ```
- python main_xxx_sckl.py \
+ python main_lipo_sckl.py \
  --alpha 0.001 \
  --beta 0.001 \
  --mu 0.0001 \
